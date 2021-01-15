@@ -79,9 +79,6 @@
 	</center>
 </div>
 
-
-
-
 <!--
 <div style = "border:2px solid #FF0000; padding:10px; margin-bottom:20px; background-color:#DBF3FB; color:#CC0000">
 <h2 style = "color:#FF0000;">Поздравляем настоятеля храма о. Виктора с Днем Ангела!</h2>
